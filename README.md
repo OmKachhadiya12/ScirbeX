@@ -27,16 +27,12 @@ I built ScribeX to move beyond basic CRUD applications and understand how to str
 ## Screenshots
 
 ### Home Page
-
-<img width="1920" height="1020" alt="Screenshot 2026-04-16 095330" src="https://github.com/user-attachments/assets/24c66db8-8e09-4ebd-8bc4-8b7f574f13a0" />
-
+<img width="1920" height="1020" alt="Screenshot 2026-04-16 140853" src="https://github.com/user-attachments/assets/2b5a0dff-8707-43c4-b9f2-1bc9778cdf12" />
 ### Create / Edit Note
-
-<img width="1920" height="1020" alt="Screenshot 2026-04-16 095409" src="https://github.com/user-attachments/assets/5cdc7818-7038-4759-a315-4d571a7ca58e" />
-
+<img width="1920" height="1020" alt="Screenshot 2026-04-16 140913" src="https://github.com/user-attachments/assets/e123dcdc-e9c6-47d0-bbd9-e9e7368cd97f" />
 ### Backend Architecture
+<img width="1536" height="1024" alt="scribeX" src="https://github.com/user-attachments/assets/56ce6bc2-83a5-47e9-86ad-f0c1351e325a" />
 
-<img width="1536" height="1024" alt="scribeX" src="https://github.com/user-attachments/assets/95ebf908-80ee-4aa6-a1e2-78c5b1a210aa" />
 
 ---
 
